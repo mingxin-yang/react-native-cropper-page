@@ -1,0 +1,23 @@
+{
+  "name": "react-native-cropper-page",
+  "version": "1.0.0",
+  "description": "react native cropper package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mingxin-yang/react-native-cropper-page.git"
+  },
+  "keywords": [
+    "cropper",
+    "crop"
+  ],
+  "author": "Cuz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mingxin-yang/react-native-cropper-page/issues"
+  },
+  "homepage": "https://github.com/mingxin-yang/react-native-cropper-page#readme"
+}
