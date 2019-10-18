@@ -3,13 +3,14 @@
 <!--
 [![NPM version](https://img.shields.io/npm/v/react-native-cropper-page.svg)](https://www.npmjs.com/package/react-native-cropper-page)
 
-![img](https://github.com/mingxin-yang/images/blob/master/uiuuj.gif?raw=true)
+
 
 ## Installation
 ```bash
 $ npm install react-native-cropper-page
 ```
 -->
+![img](https://github.com/mingxin-yang/images/blob/master/uiuuj.gif?raw=true)
 ## Quick Start
 
 ```
